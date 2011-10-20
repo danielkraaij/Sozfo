@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/18/trunk/library/Sozfo/Service/Flickr
+END
+Photo.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14/trunk/library/Sozfo/Service/Flickr/Photo.php
+END
+Tag.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14/trunk/library/Sozfo/Service/Flickr/Tag.php
+END
+Collection.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/7/trunk/library/Sozfo/Service/Flickr/Collection.php
+END
+Set.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/7/trunk/library/Sozfo/Service/Flickr/Set.php
+END
+Group.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14/trunk/library/Sozfo/Service/Flickr/Group.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7/trunk/library/Sozfo/Service/Flickr/Exception.php
+END
+User.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14/trunk/library/Sozfo/Service/Flickr/User.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14/trunk/library/Sozfo/Service/Flickr/Interface.php
+END
+Auth.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/18/trunk/library/Sozfo/Service/Flickr/Auth.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/18/trunk/library/Sozfo/Service/Flickr/Abstract.php
+END

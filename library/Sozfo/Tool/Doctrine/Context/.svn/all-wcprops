@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/17/trunk/library/Sozfo/Tool/Doctrine/Context
+END
+FixturesDirectory.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/17/trunk/library/Sozfo/Tool/Doctrine/Context/FixturesDirectory.php
+END
+MigrationsDirectory.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/17/trunk/library/Sozfo/Tool/Doctrine/Context/MigrationsDirectory.php
+END
+SchemaDirectory.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/17/trunk/library/Sozfo/Tool/Doctrine/Context/SchemaDirectory.php
+END
